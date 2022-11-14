@@ -1,0 +1,15 @@
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\cs_homework_4.csproj.AssemblyReference.cache
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\cs_homework_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\cs_homework_4.AssemblyInfoInputs.cache
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\cs_homework_4.AssemblyInfo.cs
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\cs_homework_4.csproj.CoreCompileInputs.cache
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\bin\Debug\net6.0\cs_homework_4.exe
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\bin\Debug\net6.0\cs_homework_4.deps.json
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\bin\Debug\net6.0\cs_homework_4.runtimeconfig.json
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\bin\Debug\net6.0\cs_homework_4.dll
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\bin\Debug\net6.0\cs_homework_4.pdb
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\cs_homework_4.dll
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\refint\cs_homework_4.dll
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\cs_homework_4.pdb
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\cs_homework_4.genruntimeconfig.cache
+D:\python_gb\Новое обучение\Знакомство с языками программирования\cs_homework_4\obj\Debug\net6.0\ref\cs_homework_4.dll
